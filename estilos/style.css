@@ -78,7 +78,7 @@ div.campo > label {
     display: none;
 }
 
-div.campo > i {
+div.campo > span {
     color: white;
     /*background-color: black;*/
     font-size: 1.9em;
